@@ -4,7 +4,7 @@
 ![img](https://user-images.githubusercontent.com/4008778/86519622-4aec7580-bdf1-11ea-8a4d-3bd1b09deafd.gif)
 
 ## Gameplay
-Stacks is an easy-to-play game that only has one control - the spacebar. Your goal is to keep stacking the block as long as you can, by hitting spacebar *once* (don't hold it down) to place the block on the previous one. If you miss, the your block will get smaller and smaller until there's nothing left! Be careful, as the game speeds up.
+Stacks is an easy-to-play game that only has one control - the spacebar. Your goal is to keep stacking the block as long as you can, by hitting spacebar *once* (don't hold it down) to place the block on the previous one. If you miss, your block will get smaller and smaller until there's nothing left! Be careful, as the game speeds up.
 
 ## Installation
 Navigate to [releases](https://github.com/sherwynds/Stacks/releases), download, and run the latest `.exe` file.
