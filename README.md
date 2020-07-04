@@ -1,4 +1,5 @@
 # Stacks
+🎮 A simple block-stacking game to beat the boredom away 
 
 ![img](https://user-images.githubusercontent.com/4008778/86519622-4aec7580-bdf1-11ea-8a4d-3bd1b09deafd.gif)
 
